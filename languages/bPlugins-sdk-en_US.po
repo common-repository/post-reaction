@@ -1,0 +1,120 @@
+# Copyright (C) 2024 bPlugins LLC
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Reaction 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/post-reaction\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-06-30T14:23:37+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: post-reaction\n"
+
+#. Plugin Name of the plugin
+#: inc/Base/Settings.php:18
+msgid "Post Reaction"
+msgstr ""
+
+#. Description of the plugin
+msgid "Count post reactions (likes, loves, cares) and enforce one-time reaction per user."
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins LLC"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:436
+msgid "Enable Reacts"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:498
+#: dist/settings.js:501
+msgid "Custom React"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:503
+#: dist/settings.js:599
+msgid "Enabled"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:506
+msgid "React Name"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:507
+msgid "Unique React ID"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:508
+msgid "SVG Icon"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:520
+msgid "Delete"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:528
+msgid "Add New React"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:607
+msgid "Only User Can React"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:613
+msgid "React Content Position"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:616
+msgid "Before Content"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:617
+msgid "After Content"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:642
+msgid "Icon Size"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:648
+msgid "Active Icon Background"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:656
+msgid "Design"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:664
+msgid "Content Before React"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:669
+msgid "Content After React"
+msgstr ""
+
+#: dist/settings.js:1
+#: dist/settings.js:680
+msgid "Save"
+msgstr ""
